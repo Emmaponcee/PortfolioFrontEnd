@@ -1,3 +1,3 @@
 # PortfolioFrontEnd
-Repositorio para el Portfolio FrondtEnd
-Emma
+Repositorio para el Portfolio FrondtEnd.
+
